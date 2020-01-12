@@ -1,0 +1,23 @@
+{
+  "name": "sedmail-nodejs",
+  "version": "1.0.0",
+  "description": "Send email using node.js and mailgun",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udaysingh236/sedmail-nodejs.git"
+  },
+  "author": "uday singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udaysingh236/sedmail-nodejs/issues"
+  },
+  "homepage": "https://github.com/udaysingh236/sedmail-nodejs#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodemailer": "^6.4.2"
+  }
+}
