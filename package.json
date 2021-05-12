@@ -18,6 +18,6 @@
   "homepage": "https://github.com/udaysingh236/sedmail-nodejs#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "nodemailer": "^6.4.2"
+    "nodemailer": "^6.4.16"
   }
 }
